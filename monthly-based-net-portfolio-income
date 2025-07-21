@@ -1,0 +1,13 @@
+# Given data
+starting_portfolio_value = 26947.23
+starting_net_deposits = 26613.28
+
+ending_portfolio_value = 27454.46
+ending_net_deposits = 28146.63
+
+# Calculate net deposits during the month
+net_deposits_during_month = ending_net_deposits - starting_net_deposits
+
+# Calculate net gain
+net_gain = (ending_portfolio_value - starting_portfolio_value) - net_deposits_during_month
+net_gain
