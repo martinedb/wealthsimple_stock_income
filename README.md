@@ -119,10 +119,4 @@ Simply plug in your own numbers to the provided functions.
 
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Contributing
-
-Pull requests and suggestions are welcome! Please open an issue or submit a PR for improvements or new features.
-
----
-
 *Created by [martinedb](https://github.com/martinedb)*
